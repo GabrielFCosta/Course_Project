@@ -2,7 +2,13 @@
 
 #### Getting and Cleaning Data Course Project
 
+#### run_analysis.R
+
 *Author: Gabriel Costa*
+
+The raw data was originally divided in two groups: a training set and a test set. Each group had two other files each, corresponding to the activity from which the data was obtained and the subject that performed the activity. These two groups of data were merged into a single data set.
+
+The goal of the project was to create a tidy data set containing the means, by activity and subject, of the means and standard deviations of the original variables contained in the raw data.
 
 -----
 
