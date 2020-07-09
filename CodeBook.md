@@ -21,6 +21,7 @@ New variables included in the merged dataset were "activity" and "subject".
 
 * #### activity
 Identifies the activity from which the sensor data was obtained. There are five different activities:
+
     * WALKING
     * WALKING_UPSTAIRS
     * WALKING_DOWNSTAIRS
