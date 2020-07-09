@@ -20,14 +20,13 @@ New variables included in the merged dataset were "activity" and "subject".
 -----
 
 * #### activity
-Identifies the activity from which the sensor data was obtained. There are five different activities:
-
-    * WALKING
-    * WALKING_UPSTAIRS
-    * WALKING_DOWNSTAIRS
-    * SITTING
-    * STANDING
-    * LAYING
+Identifies the activity from which the sensor data was obtained. There are five different activities:   
+WALKING      
+WALKING_UPSTAIRS    
+WALKING_DOWNSTAIRS     
+SITTING    
+STANDING    
+LAYING
 
 * #### subject
 Identiifes the subject that perfomed the activity, numbered from 1 to 30.
